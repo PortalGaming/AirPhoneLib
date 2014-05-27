@@ -5,7 +5,7 @@ Airphone is a lightweight library written in [Go](http://golang.org/), to allow 
 
 _Note to myself:_ Make pitch more clear to prevent confusion and wrong first impressions from users.
 
-_Disclaimer:_ Airphone is not an all-and-round solution. You'll still have to do tests on the mobile device itself, for tests such as mobile render tests. However if you're sure that your engine does all of this correctly, and it supports your computer platform in the same way as it supports your target mobile platform, you can minimize the amount of "push" tests drasticly.
+_Disclaimer:_ Airphone is not an all-around solution. You'll still have to do tests on the mobile device itself, for tests such as mobile render tests. However if you're sure that your engine does all of this correctly, and it supports your computer platform in the same way as it supports your target mobile platform, you can minimize the amount of "push" tests drasticly.
 
 ## Index
 1. [Features](#features)
