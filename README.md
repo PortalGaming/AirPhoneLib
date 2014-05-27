@@ -11,8 +11,9 @@ _Disclaimer:_ Airphone is not an all-around solution. You'll still have to do te
 1. [Features](#features)
 2. [Examples](#examples)
 3. [Further documentation](#further-documentation)
-4. [Project organization](#project-organization)
-5. [Legal notices](#legal-notices)
+4. [Contribute](#contribute)
+5. [Project organization](#project-organization)
+6. [Legal notices](#legal-notices)
 
 ## Features
 
@@ -29,6 +30,10 @@ _The library is still in development, please come back later. Soon I'll have sev
 ## Further Documentation
 
 For more detailed inormation, please head over to [the Airphone wiki](https://github.com/GlenDC/AirPhone/wiki). Your question has still not been answered? Don't hesitate to contact me via [mail](mailto:contact@glendc.com) or by posting it as an issue.
+
+## Contribute
+
+[Click here](https://github.com/GlenDC/AirPhoneLib/wiki#contribute) for more information on how to contribute to Airphone.
 
 ## Project Organization
 
