@@ -3,6 +3,8 @@ Airphone
 
 Airphone is a lightweight library written in [Go](http://golang.org/), to allow you as a mobile game developer to develop games faster. Imagine the speed of compiling and running your game on your computer, combined with the power of the input of any mobile device. Thanks to Airphone, you'll be able to enjoy this and boost up your development cycle, free or charge and as easy as a wireless connection can be. That's right, no wires.
 
+_Note to myself:_ Make pitch more clear to prevent confusion and wrong first impressions from users.
+
 ## Index
 1. [Features](#features)
 2. [Examples](#examples)
