@@ -27,7 +27,7 @@ _Disclaimer:_ AirPhone is not an all-around solution. You'll still have to do te
 
 _The library is still in development, please come back later. Soon I'll have several example and a quick interactive tutorial to help you getting started!_
 
-[AirPad](https://github.com/GlenDC/AirPad) is a product developed by me, using Airphone. It will be used as one of the biggest examples of how AirPhone can also be used in a final product, rather than just for speeding up the development of a mobile game.
+[AirPad](https://github.com/PortalGaming/AirPad) is a product developed by me, using Airphone. It will be used as one of the biggest examples of how AirPhone can also be used in a final product, rather than just for speeding up the development of a mobile game.
 
 ## Further Documentation
 
