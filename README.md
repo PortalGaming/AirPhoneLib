@@ -33,15 +33,15 @@ _The library is still in development, please come back later. Soon I'll have sev
 
 ## Further Documentation
 
-For more detailed inormation, please head over to [the Airphone wiki](https://github.com/GlenDC/AirPhone/wiki). Your question has still not been answered? Don't hesitate to contact me via [mail](mailto:contact@glendc.com) or by posting it as an issue.
+For more detailed inormation, please head over to [the Airphone wiki](https://github.com/PortalGaming/AirPhone/wiki). Your question has still not been answered? Don't hesitate to contact me via [mail](mailto:contact@glendc.com) or by posting it as an issue.
 
 ## Contribute
 
-[Click here](https://github.com/GlenDC/AirPhoneLib/wiki#contribute) for more information on how to contribute to Airphone.
+[Click here](https://github.com/PortalGaming/AirPhoneLib/wiki#contribute) for more information on how to contribute to Airphone.
 
 ## Project Organization
 
 This opensource project is developed and maintained by Glen De Cauwsemaecker. I would love to hear your feedback and suggestions, which you can post as an issue or by [mailing me](mailto:contact@glendc.com).
 
 ## Legal notices
-Airphone is licensed under the MIT License. [Click here for the full license details](https://github.com/GlenDC/AirPhone/blob/master/LICENSE).
+Airphone is licensed under the MIT License. [Click here for the full license details](https://github.com/PortalGaming/AirPhone/blob/master/LICENSE).
