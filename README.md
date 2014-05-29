@@ -7,7 +7,7 @@ _Note to myself:_ Make pitch more clear to prevent confusion and wrong first imp
 
 _Disclaimer:_ AirPhone is not an all-around solution. You'll still have to do tests on the mobile device itself, for tests such as mobile render tests. However if you're sure that your engine does all of this correctly, and it supports your computer platform in the same way as it supports your target mobile platform, you can minimize the amount of "push" tests drasticly.
 
-![alt tag](logo.png)
+[![alt tag](logo.png)](https://github.com/PortalGaming)
 
 ## Index
 1. [Features](#features)
